@@ -84,4 +84,4 @@ MIT. Fork it. Customize it. Use it however you want.
 
 ## Built by
 
-[Shaili Guru](https://aipmguru.substack.com) — AI Product Manager. 12+ years at Amazon, Disney, Nike, T-Mobile. Lecturer at the University of Washington. Founder of Bluenox.ai.
+[Shaili Guru](https://aipmguru.substack.com) — AI Product Manager. 12+ years at Amazon, Disney, Nike, T-Mobile. Lecturer at the University of Washington. Writer of [AIPMGURU Substack](https://aipmguru.substack.com).
