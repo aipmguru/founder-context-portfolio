@@ -56,7 +56,7 @@ Open each template in `templates/` and fill it in directly. Slower but works if 
 
 **Path 3: Plug into the Strategic PM OS**
 
-If you're using the [Strategic PM OS](https://github.com/aipmguru/strategic-pm-os) (or attending the workshop), see `wiring/pm-os-integration.md` for how the 12 files feed into the OS skills.
+If you're using the [Strategic PM OS](https://pmos.founderwell.com/) (or attending the workshop), see `wiring/pm-os-integration.md` for how the 12 files feed into the OS skills.
 
 ## Design principles
 
