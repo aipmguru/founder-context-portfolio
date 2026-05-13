@@ -65,11 +65,13 @@ This system is different in three ways:
 
 Click the green **Use this template** button at the top of this page.
 
-<!-- SCREENSHOT: The green "Use this template" button at the top right of the GitHub repo page. Add a red arrow pointing to it. -->
-
 Click **Create a new repository**.
 
-<!-- SCREENSHOT: The dropdown after clicking "Use this template," showing "Create a new repository." -->
+
+
+<img width="1359" height="174" alt="Screenshot 2026-05-13 at 11 01 26 AM" src="https://github.com/user-attachments/assets/f8377fc7-d82a-4ee1-8f60-d5834c7cef57" />
+
+
 
 On the next screen:
 - **Owner:** your GitHub account
@@ -78,7 +80,8 @@ On the next screen:
 - Leave everything else as default
 - Click **Create repository**
 
-<!-- SCREENSHOT: The "Create a new repository" form with Owner, Repository name, and Private radio button highlighted. -->
+<img width="953" height="813" alt="Screenshot 2026-05-13 at 11 16 47 AM" src="https://github.com/user-attachments/assets/639d6fc6-5108-41df-9f31-f09ab13a282e" />
+
 
 > [!TIP]
 > "Private" means only you (and people you explicitly invite) can see it. This is the right setting for your business context.
@@ -96,7 +99,8 @@ If you don't already have Claude Code, install it now.
 3. Open the installer and follow the prompts
 4. Sign in with your Claude account
 
-<!-- SCREENSHOT: The claude.ai/download page showing the download button. -->
+<img width="1413" height="920" alt="Screenshot 2026-05-13 at 11 17 37 AM" src="https://github.com/user-attachments/assets/c9e09a60-a411-4e58-9d21-9a975d6f1151" />
+
 
 > [!NOTE]
 > Claude Code is different from the regular Claude chat at claude.ai. Claude Code is the one that can read and write files on your computer. You need this version for the template to work properly.
@@ -114,7 +118,8 @@ Two options — pick whichever you're more comfortable with.
 3. Click **Download ZIP**
 4. Unzip the downloaded file into a folder you can find easily — Documents, Desktop, wherever you keep important files
 
-<!-- SCREENSHOT: The green "Code" button on the GitHub repo page with the dropdown open, showing "Download ZIP" highlighted. -->
+<img width="1009" height="437" alt="Screenshot 2026-05-13 at 11 01 50 AM" src="https://github.com/user-attachments/assets/487f4119-d09a-45cb-bec0-3a97356f7d33" />
+
 
 ### Option B — Clone with Git (terminal users)
 
@@ -130,7 +135,7 @@ cd my-context-portfolio
 3. Navigate to where you saved or unzipped your repo
 4. Select the folder
 
-<!-- SCREENSHOT: The Claude Code app's Open Folder dialog or the initial state with the file tree visible. -->
+<img width="1482" height="1132" alt="Screenshot 2026-05-13 at 11 06 01 AM" src="https://github.com/user-attachments/assets/45236eb3-56ac-47f1-bb7a-9c5cc17a1adf" />
 
 > [!NOTE]
 > You should now see the folder structure on the left side of Claude Code: `templates/`, `interview-protocol/`, plus README.md and other docs.
@@ -145,14 +150,18 @@ In the Claude Code chat window, type this and press Enter:
 start interview
 ```
 
-<!-- SCREENSHOT: The Claude Code chat input with "start interview" typed in it, ready to send. -->
+<img width="1475" height="238" alt="Screenshot 2026-05-13 at 11 06 46 AM" src="https://github.com/user-attachments/assets/f361c85f-76ef-4eb7-aa25-2251fb16f942" />
+
+
+<img width="1526" height="786" alt="Screenshot 2026-05-13 at 11 06 59 AM" src="https://github.com/user-attachments/assets/dbfb7226-aaa7-4019-958a-c4ac34bed696" />
+
+
 
 Claude Code reads the file at `interview-protocol/agent-system-prompt.md` and begins the structured interview.
 
 > [!TIP]
 > If "start interview" doesn't work, paste this instead:
 > *"Read the file at interview-protocol/agent-system-prompt.md and follow those instructions to interview me about my business."*
-
 ---
 
 ## Step 5 — Answer the interview
