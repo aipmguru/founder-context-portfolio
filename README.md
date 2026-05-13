@@ -238,7 +238,7 @@ Weekly essays on AI product management, strategic thinking for founders, and the
 
 Have a strategic call you're stuck on right now? Book a 60-minute 1:1 session. Bring your portfolio (or build it together live). Walk out with a written decision memo.
 
-**[Book a session → CALENDLY LINK TBD]**
+**[Book a session → CALENDLY LINK] (https://calendly.com/shailiguru/new-meeting)**
 
 <!-- TODO: Replace "CALENDLY LINK TBD" with your actual Calendly URL (e.g., https://calendly.com/shailiguru/strategic-session). -->
 
